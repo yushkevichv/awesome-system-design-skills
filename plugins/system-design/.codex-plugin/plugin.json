@@ -1,0 +1,6 @@
+{
+  "name": "system-design",
+  "version": "0.1.0",
+  "description": "Process-driven system architecture skill that gates requirements, right-sizes decisions from FR/NFR numbers, validates failure modes, and produces a hand-off-ready design artifact.",
+  "skills": "./skills/"
+}

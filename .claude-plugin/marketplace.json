@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "system-design",
-      "source": "./",
+      "source": "./plugins/system-design",
       "description": "Process-driven system design: requirements gate, right-sizing from numbers, C4-style design, verified-current tech, optional independent grounding track. Hand-off-ready artifact.",
       "version": "0.1.0",
       "author": { "name": "Vitaly Yushkevich" },

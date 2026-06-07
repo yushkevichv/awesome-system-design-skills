@@ -1,4 +1,4 @@
-# system-design — Claude Code plugin
+# system-design — Claude Code / Codex plugin
 
 Process-driven **system design** skill: runs design as staged gates so the result is at lead level and hand-off-ready.
 
@@ -10,7 +10,13 @@ Process-driven **system design** skill: runs design as staged gates so the resul
 
 **Standalone & OSS** — no knowledge base or MCP required, no setup.
 
-## Install
+## Install in Codex
+```bash
+codex plugin marketplace add yushkevichv/awesome-system-design-skills
+codex plugin add system-design@awesome-system-design-skills
+```
+
+## Install in Claude Code
 ```
 /plugin marketplace add https://github.com/yushkevichv/awesome-system-design-skills
 /plugin install system-design@awesome-system-design-skills
