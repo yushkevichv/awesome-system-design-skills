@@ -1,0 +1,10 @@
+{
+  "name": "system-design",
+  "description": "Process-driven system design for Claude Code: a requirements gate (full FR/NFR, no hidden defaults), right-sizing from real numbers, a C4 design with verified-current technology versions, and an independent grounding track when a knowledge skill is present. Produces a single hand-off-ready design document.",
+  "version": "0.1.0",
+  "author": { 
+    "name": "Vitaly Yushkevich" 
+  },
+  "license": "MIT",
+  "keywords": ["system-design", "architecture", "design", "tech-spec", "requirements", "right-sizing", "c4"]
+}

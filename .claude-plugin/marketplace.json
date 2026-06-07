@@ -1,0 +1,22 @@
+{
+  "name": "awesome-system-design-skills",
+  "owner": { 
+    "name": "Vitaly Yushkevich" 
+  },
+  "metadata": {
+    "description": "A system-design skill for Claude Code — process-driven architecture with a requirements gate, right-sizing, and verified-current tech.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "system-design",
+      "source": "./",
+      "description": "Process-driven system design: requirements gate, right-sizing from numbers, C4-style design, verified-current tech, optional independent grounding track. Hand-off-ready artifact.",
+      "version": "0.1.0",
+      "author": { "name": "Vitaly Yushkevich" },
+      "keywords": ["system-design", "architecture", "design", "tech-spec", "right-sizing"],
+      "category": "development",
+      "strict": false
+    }
+  ]
+}
